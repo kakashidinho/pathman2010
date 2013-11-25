@@ -5,6 +5,7 @@ GAMELOFT XTREME PROGRAMMING CONTEST 2010: ROUND 1 GAME
 - This is my game submitted for the contest happening long time ago - "GameLoft xtreme programming contest 2010".
 - This game is very similar to the classic Pacman. Though, the characters are in 3D.
 - Though around that time, I was still a inexperienced student, and my English was not so good. Thus, the documents included might not be well written. 
+- I used OpenGL (no shader) for rendering and SDL_mixer for sounds & music.
 2. List of folders
 ----------------------
 - Demo: contains compiled game. Open "Demo\bin\PathMan.exe" to run the game.
