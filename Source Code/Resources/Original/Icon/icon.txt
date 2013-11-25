@@ -1,0 +1,13 @@
+Begin Variable Declaration
+numIcons		int	9
+image		string	menu.tga
+0		int4	19 59 47 7
+1		int4	19 59 100 60
+2		int4	102 125 48 19
+3		int4	102 125 94 65
+4		int4	136 165 271 237
+5		int4	90 119 317 283
+6		int4	19 158 193 153
+7		int4	315 454 297 257
+8		int4	178 468 198 6
+End Variable Declaration

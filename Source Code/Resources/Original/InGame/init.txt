@@ -1,0 +1,68 @@
+Begin Variable Declaration
+
+//button clicking animation
+banimDuration	float	1.0
+bposeDuration	float	0.1
+//home button
+icon0		int	4
+icon1		int	5
+rect0		int4	70 110 30 70
+//Button Sound
+icon2		int	0
+icon3		int	1
+rect1		int4	20 60 30 70
+		
+//X Icon
+icon4		int	2
+icon5		int	3
+rect2		int4	30 50 40 60
+
+//background
+bgImage		string 	sky.tga
+
+//text
+lifeTextLoc	float2	25 550
+coinTextLoc	float2	25 500	
+levelTextLoc	float2	25 450	
+lifeTextPrefix	string	"Life :"
+lifeTextFont	uint	0
+coinTextPrefix	string	"Coins :" 
+coinTextFont	uint	0
+levelTextPrefix	string	"Level :" 
+levelTextFont	uint	1
+//Fps counter text location
+locFps		float2	600 0
+//player invisible animation
+vposeDuration	float	0.1
+//map
+mapRect		int4	600 800 400 600
+//board rotation
+anglePerSecond	float	45 //degree
+maxXAngle	float	45 //degree
+minXAngle	float	-40 // degree
+maxYAngle	float	45 //degree
+minYAngle	float	-45 //degree	
+//sounds
+hurt		string	hurt.ogg
+coin		string	coin.ogg
+lose		string	lose.ogg
+win		string 	win.ogg
+
+//win lose animation
+wlImage		string	winlose.tga
+winRect0		int4	53 121 108 72 //in image
+winRect1		int4	126 204 108 72 // in image
+loseRect0		int4	106 173 177 141 //in image
+loseRect1		int4	179 279 177 141 //in image
+wX		int4	332 400 404 482 //in window screen
+lX		int4	332 400 403 503// in window screen
+wlH		int	36
+wlanimPoses	uint	4
+wlY0		int	300
+wlY1		int	306
+wlY2		int	300
+wlY3		int	294
+
+wlanimDuration	float	4.0
+wlposeDuration	float	0.0665
+End Variable Declaration

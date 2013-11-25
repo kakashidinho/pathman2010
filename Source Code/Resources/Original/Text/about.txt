@@ -1,0 +1,11 @@
+Begin Variable Declaration
+numLines		uint	7
+fontIndex		uint	0
+textLine0		string	"Game : Path Man"
+textLine1		string	"Programmer : Le Hoang Quyen"	
+textLine2		string	"Email : 50701988@stu.hcmut.edu.vn"
+textLine3		string	" or wayneroonho@gmail.com"
+textLine4		string	""
+textLine5		string	"Special thanks to GameLoft "
+textLine6		string	" for hosting this challenge"
+End Variable Declaration

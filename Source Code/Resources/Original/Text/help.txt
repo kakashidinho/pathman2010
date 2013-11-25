@@ -1,0 +1,14 @@
+Begin Variable Declaration
+numLines		uint	10
+fontIndex		uint	1
+textLine0		string	"W - Move Up"
+textLine1		string	"S - Move Down"
+textLine2		string	"A - Move Left"
+textLine3		string	"D - Move Right"
+textLine4		string	"Space - Pause Game"
+textLine5		string	"Esc - Quit"
+textLine6		string	"Tab - Display Fps"
+textLine7		string	"Drag Mouse Up/Down - Rotate Via X-axis"
+textLine8		string	"Drag Mouse Left/Right - Rotate Via Y-axis"
+textLine9		string	"Right Click Mouse - Reset Rotation"
+End Variable Declaration

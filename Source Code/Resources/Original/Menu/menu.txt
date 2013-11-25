@@ -1,0 +1,59 @@
+Begin Variable Declaration
+//Button		Start
+text0		string	Start
+textHeight0	float	415
+rect0		int4	300 500 400 450
+
+//Button		Help
+text1		string	Help
+textHeight1	float	315
+rect1		int4	300 500 300 350
+
+//Button		About
+text2		string	About
+textHeight2	float	215
+rect2		int4	300 500 200 250
+
+//Button		Exit
+text3		string	Exit
+textHeight3	float	115
+rect3		int4	300 500 100 150
+
+//Button		OK
+text4		string	OK
+textHeight4	float	65
+rect4		int4	300 500 50 100
+
+//additional info for buttons Start Help About Exit
+icon0	 	int	6
+icon1		int	7
+font		int	1
+animDuration	float	1.0
+poseDuration	float	0.1
+
+//Button Sound
+icon2		int	0
+icon3		int	1
+rect5		int4	20 60 30 70
+		
+//X Icon
+icon4		int	2
+icon5		int	3
+rect6		int4	30 50 40 60
+
+//help text
+helpTextX	float	50
+helpTextY		float	500
+
+//about text
+aboutTextX	float	200
+aboutTextY	float	400
+
+//help & about page transparency
+ha_transparency 	float 	0.8
+
+//Background	
+bgImage		string	menu_bg.tga
+//music
+music		string 	menu.ogg
+End Variable Declaration		

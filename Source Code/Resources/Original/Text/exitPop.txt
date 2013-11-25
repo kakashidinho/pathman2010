@@ -1,0 +1,6 @@
+Begin Variable Declaration
+numLines		uint	2
+fontIndex		uint	0
+textLine0		string	"Would you like to quit"
+textLine1		string	"the game?"	
+End Variable Declaration

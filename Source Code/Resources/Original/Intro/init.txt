@@ -1,0 +1,10 @@
+Begin Variable Declaration
+logoImage		string	gameloft_logo.tga
+logoImageRect		int4	20 450 526 215
+logoWinRect		int4	180 620 150 450
+logoDisplayDuration	float	3.0
+splashScreenImage		string	splash.tga
+splashDuration		float	3.0
+fading			float	0.5
+clickSound		string	menu_select.ogg
+End Variable Declaration

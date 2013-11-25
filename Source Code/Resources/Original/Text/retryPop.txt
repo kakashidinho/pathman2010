@@ -1,0 +1,5 @@
+Begin Variable Declaration
+numLines		uint	1
+fontIndex		uint	0
+textLine0		string	"Retry?"
+End Variable Declaration

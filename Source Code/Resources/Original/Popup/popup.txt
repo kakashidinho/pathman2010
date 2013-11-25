@@ -1,0 +1,26 @@
+Begin Variable Declaration
+//Button		OK
+text1		string	Yes
+textHeight1	float	115
+rect1		int4	200 400 100 150
+
+//Button		Cancel
+text2		string	No
+textHeight2	float	115
+rect2		int4	400 600 100 150
+
+//Image		Dialog
+icon3		int	8
+rect3		int4	200 600 150 500
+textArea		int4	220 580 170 480
+
+//additional button info
+icon1	 	int	6
+icon2		int	7
+font		int	0
+animDuration	float	1.0
+poseDuration	float	0.1
+
+//popup background transparency
+transparency	float	0.8
+End Variable Declaration		

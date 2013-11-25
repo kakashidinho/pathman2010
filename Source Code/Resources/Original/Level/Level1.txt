@@ -1,0 +1,40 @@
+Begin Variable Declaration
+//board info
+rowTiles		int	16
+boardWidth	float	16.0 
+boardCorner	float3	-8.0 0.0 -8.0	
+boardFile		string	Board1.txt
+boardImg		string	floor.tga
+//light info
+numLights	int	2
+lightDir0		float3	-1 -1 -1
+lightA0		float4	0.2 0.2 0.2 1.0
+lightD0		float4 	1 1 1 1
+lightS0		float4 	1 1 1 1
+lightDir1		float3	0 0 -1
+lightA1		float4	0.2 0.2 0.2 1.0
+lightD1		float4 	1 1 1 1
+lightS1		float4 	0 0 0 1
+//camera
+eye		float3	0 14 15
+at		float3	0 0 0
+fov		float	45 //degree
+//meshes
+mc		string	MC.obj
+ghost		string	ghost.obj
+coin		string	coin.obj
+box		string	box.obj
+//coin's rotation angle per second
+coinRotAngle	float 	180.0 //degree
+//velocity	(unit/second)
+mcv		float	3.0
+ghostv		float	2.3
+//AI range of sight
+ros		float	4.0
+//next level
+nextLevel		int 	2
+
+//music
+music 		string	in_game.ogg
+
+End Variable Declaration

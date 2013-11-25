@@ -1,0 +1,28 @@
+Begin Variable Declaration
+//list of variables
+varList		string	"varList iconPacMan pacManSize poseDur1 numPoses1 ImgRect10 ImgRect11 ImgRect12 pointSize poseDur2 numPoses2 ImgRect20 ImgRect21 numPoints logoImg logoImgRect logoWinRect bgImg textPoseDuration textLine"
+//pacman icon
+iconPacMan	string	Loading.tga
+pacManSize	int2	40 40
+poseDur1		float	0.15
+numPoses1	uint	3
+ImgRect10	int4	79 117 108 70
+ImgRect11	int4	79 117 153 115
+ImgRect12	int4	79 117 200 160
+//points
+pointSize		int2	23 23
+poseDur2		float	0
+numPoses2	uint	2
+ImgRect20	int4	152 176 89 66
+ImgRect21	int4	152 176 172 149
+numPoints	uint	10
+//"xtream" logo
+logoImg		string	xtreme.tga
+logoImgRect	int4	22 382 70 0
+logoWinRect	int4	20 200 20 50
+//background
+bgImg		string	loading_bg.tga
+//done loading indicating text
+textPoseDuration	float	0.8
+textLine		float	20.0
+End Variable Declaration

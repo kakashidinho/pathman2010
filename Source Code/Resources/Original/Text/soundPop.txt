@@ -1,0 +1,6 @@
+Begin Variable Declaration
+numLines		uint	2
+fontIndex		uint	0
+textLine0		string	"would you like to enable"
+textLine1		string	"sound?"
+End Variable Declaration

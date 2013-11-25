@@ -1,0 +1,4 @@
+numFonts		2
+index		infoFile		imageFile
+0		fontInfo.txt	font_1.tga 
+1		fontInfo.txt	font_2.tga //image file
