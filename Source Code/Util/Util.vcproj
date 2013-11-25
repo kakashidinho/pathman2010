@@ -60,9 +60,11 @@
 			/>
 			<Tool
 				Name="VCLinkerTool"
+				OutputFile="..\..\Demo\bin\$(ProjectName).dll"
 				LinkIncremental="2"
 				GenerateDebugInformation="true"
 				SubSystem="2"
+				ImportLibrary="$(OutDir)\$(TargetName).lib"
 				TargetMachine="1"
 			/>
 			<Tool
@@ -132,11 +134,13 @@
 			/>
 			<Tool
 				Name="VCLinkerTool"
+				OutputFile="..\..\Demo\bin\$(ProjectName).dll"
 				LinkIncremental="1"
 				GenerateDebugInformation="true"
 				SubSystem="2"
 				OptimizeReferences="2"
 				EnableCOMDATFolding="2"
+				ImportLibrary="$(OutDir)\$(TargetName).lib"
 				TargetMachine="1"
 			/>
 			<Tool

@@ -5,9 +5,8 @@
 #include "../ItemManager.h"
 #include <SDL.h>
 #include <SDL_mixer.h>
-#pragma comment(lib,"SDL.lib")
-#pragma comment(lib,"SDLmain.lib")
-#pragma comment(lib,"SDL_mixer.lib")
+#pragma comment(lib,"SDL2.lib")
+#pragma comment(lib,"SDL2_mixer.lib")
 
 /*----------------class MixerImp-implements Mixer----------*/
 struct Audio
